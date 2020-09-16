@@ -1,0 +1,16 @@
+"*":
+  core:
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+    useTreeSitterParsers: false
+  editor:
+    fontFamily: "Ricty Diminished"
+    fontSize: 16
+  "exception-reporting":
+    userId: "a5b9e15c-ca09-408b-8f68-61f02b91ba5b"
+  welcome:
+    showOnStartup: false
